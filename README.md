@@ -1,8 +1,8 @@
 # Interview Preparation Problem
-1. Relative Sorted Array
-2. Multiple Matching Parenthesis using Stack
-3. Sort an Character string based on its ASCII Value.
-4. Circular Link List
+- Relative Sorted Array
+- Multiple Matching Parenthesis using Stack
+- Sort an Character string based on its ASCII Value.
+-  Circular Link List
 
 
 - **Find the contiguous subarray within an array, A of length N which has the largest sum**
